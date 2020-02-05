@@ -1,0 +1,5 @@
+Vendor,filename,url
+CTRE Pheonix,Pheonix.json,http://devsite.ctr-electronics.com/maven/release/com/ctre/phoenix/Phoenix-latest.json
+REV Robotics,REVRobotics.json,https://www.revrobotics.com/content/sw/max/sdk/REVRobotics.json
+KauaiLabs navX,navx_frc.json,https://www.kauailabs.com/dist/frc/2020/navx_frc.json
+WPILib New Commands,WPILibNewCommands.json,https://raw.githubusercontent.com/wpilibsuite/allwpilib/master/wpilibNewCommands/WPILibNewCommands.json
