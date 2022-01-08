@@ -11,7 +11,7 @@ Additional offical libraries can be found [here](https://docs.wpilib.org/en/stab
 | Vendor              | Filename               | URL                                                                                                     |
 | ------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------- |
 | CTRE Pheonix        | Pheonix.json           | https://maven.ctr-electronics.com/release/com/ctre/phoenix/Phoenix-latest.json                          |
-| REV Robotics        | REVRobotics.json       | https://www.revrobotics.com/content/sw/max/sdk/REVRobotics.json                                         |
+| REV Robotics        | REVRobotics.json       | https://software-metadata.revrobotics.com/REVLib.json                                                   |
 | REV Color Sensor    | REVColorSensorV3.json  | http://www.revrobotics.com/content/sw/color-sensor-v3/sdk/REVColorSensorV3.json                         |
 | KauaiLabs navX      | navx_frc.json          | https://www.kauailabs.com/dist/frc/2022/navx_frc.json                                                   |
 | WPILib New Commands | WPILibNewCommands.json | https://raw.githubusercontent.com/wpilibsuite/allwpilib/main/wpilibNewCommands/WPILibNewCommands.json   |
